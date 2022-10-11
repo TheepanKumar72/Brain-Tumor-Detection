@@ -1,1 +1,2 @@
 # Brain-Tumor-Detection
+The segmentation of brain tumors in magnetic resonance images (MRI) is a challenging and difficult task because of the variety of their possible shapes, locations, image intensities. It is intended to summarize and compare the methods of automatic detection of brain tumor through Magnetic Resonance Image (MRI) used in different stages of Computer Aided Detection System (CAD)
